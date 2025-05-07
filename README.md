@@ -102,11 +102,11 @@ src/
 5. Verificá que el backend está corriendo en `http://localhost:3000/api/products`.
 ## 🖼️ Captura de pantalla
 
-![Add books View](/screenshots/addProducts.png)
+![Add products View](/screenshoots/addProducts.png)
 
 ---
 
-![Update books View](/screenshots/updateProducts.png)
+![Update products View](/screenshoots/updateProducts.png)
 
 ---
 
